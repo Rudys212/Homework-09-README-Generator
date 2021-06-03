@@ -63,7 +63,7 @@ const questions = [
       "Boost Software License 1.0",
       "The Unlicense",
     ],
-    name: "installation",
+    name: "license",
   },
 ];
 
@@ -73,7 +73,7 @@ function writeToFile(fileName, data) {
     if (err) {
       return console.log(err);
     }
-    console.log("Congrats! Your README.md file is now generated");
+    console.log("Congrats! Your README.md file is now generated!");
   });
 }
 
