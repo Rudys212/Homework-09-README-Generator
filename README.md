@@ -1,12 +1,12 @@
-# coding program
+# repo 2
   
-  ## My repo
+  ## repo
   
   Rudys212
 
-  ## undefined
+  ## MIT License
 
-  ## Description of This is just an example
+  ## Description of example of descr
 
   ## undefined
 
