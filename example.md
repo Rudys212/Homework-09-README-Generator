@@ -1,4 +1,4 @@
-## ${data.title}
+`## ${data.title}
 ## ${getLicense(data.license)}
 ## ${data.username} | ${data.email}
 ## ![img](${res.data.avatar_url})
