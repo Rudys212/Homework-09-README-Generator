@@ -1,0 +1,39 @@
+# README Generator
+  -----------------
+  ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+  -------------
+  ## Table of Contents
+  ------------
+  1. [Description](#Description)
+  2. [Installation](#Installation)
+  3. [Usage](#Usage)
+  4. [Contributors](#Contributors)
+  5. [Questions](#Questions)
+  
+6. [License](#License)
+  
+  # Description
+  -----------
+  This is an example of the description section
+  # Installation
+  -----------
+  The is an example of the installation section
+  # Usage
+  ----------
+  This is the section to let the user know how to use your application
+  # Contributors
+  ------------
+  undefined
+
+${renderLicenseSection}
+  # Questions
+  ----------------
+  Please feel free to reach out with any questions! 
+
+My GitHub Account:
+  
+-[Rudys212](https://github.com/Rudys212)
+
+My Email:
+  
+- [mailto:Rudys212@gmail.com](Rudys212@gmail.com)
