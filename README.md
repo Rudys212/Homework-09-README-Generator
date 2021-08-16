@@ -1,4 +1,4 @@
-# Homework-09-README Generator
+# readme-generator
 
 ## Overview
 
